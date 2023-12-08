@@ -1,4 +1,4 @@
-# 📖 Andrei Topala 
+# 📚 Andrei Topala 
 
 **`Full Stack Developer and Writer`**
 
@@ -20,7 +20,7 @@ Welcome to my profile! 👋
 
 ## 📊 Stats
 
-![Andrei's GitHub stats](https://github-readme-stats.vercel.app/api?username=atopala7&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&custom_title=Andrei's%20GitHub%20Stats)
+![Andrei's GitHub stats](https://github-readme-stats-atopala7.vercel.app/api?username=atopala7&show_icons=true&theme=tokyonight&rank_icon=github&custom_title=Andrei's%20GitHub%20Stats)
 
 <!--
 **atopala7/atopala7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
