@@ -46,7 +46,7 @@
 
 <p>
 <span>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height=215 align="center" src="https://github-readme-stats-atopala7.vercel.app/api?username=atopala7&show_icons=true&theme=tokyonight&rank_icon=github&custom_title=Andrei's%20GitHub%20Stats" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height=215 align="center" src="https://github-readme-stats-atopala7.vercel.app/api?username=atopala7&show_icons=true&theme=tokyonight&rank_icon=github&hide_rank=true&custom_title=Andrei's%20GitHub%20Stats" /></a>
 </span>
 <span>
 <a href="https://github.com/anuraghazra/github-readme-statsss">
