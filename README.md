@@ -52,10 +52,16 @@ Welcome to my profile! 👋
   <img align="center" src="https://github-readme-stats-atopala7.vercel.app/api/top-langs/?username=atopala7&theme=tokyonight&layout=donut&exclude_repo=3311Lab4,3311Project,3311Lab5,3311-Lab3,maze" />
 </a>
 </p>
+<p align="center">
+<a href="https://git.io/streak-stats">
+  <img align="center" src="https://streak-stats.demolab.com/?user=atopala7&theme=tokyonight&starting_year=2023" />
+</a>
+</p>
 
 <!--
 [![Andrei's GitHub stats](https://github-readme-stats-atopala7.vercel.app/api?username=atopala7&show_icons=true&theme=tokyonight&rank_icon=github&custom_title=Andrei's%20GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats-atopala7.vercel.app/api/top-langs/?username=atopala7&theme=tokyonight&layout=donut&exclude_repo=3311Lab4,3311Project,3311Lab5,3311-Lab3,maze)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=atopala7&theme=tokyonight&starting_year=2023)](https://git.io/streak-stats)
 -->
 
 <!--
