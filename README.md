@@ -1,4 +1,4 @@
-# 💻 Andrei Topala 📝
+# 💻📝 Andrei Topala 
 
 **`Software Developer and Writer`**
 
