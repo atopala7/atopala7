@@ -2,7 +2,9 @@
 
 **`Full Stack Developer and Writer`**
 
-Welcome to my profile! 👋
+- 🌎 **Location**: Toronto, ON, Canada
+- 📖 **Portfolio**: [andreitopala.com](https://www.andreitopala.com)
+- 📬 **Email**: [atopala7@gmail.com](mailto:atopala7@gmail.com)
 
 ## 🔧 Languages and Tools
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
