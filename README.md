@@ -47,23 +47,21 @@
 
 ## 📊 Stats
 
-<table border=0>
-<tr>
-<td align=center>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align=center width=500 src="https://github-readme-stats-atopala7.vercel.app/api?username=atopala7&show_icons=true&theme=tokyonight&rank_icon=github&custom_title=Andrei's%20GitHub%20Stats" /></a>
-</td>
-<td rowspan=2>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align=center height=425 src="https://github-readme-stats-atopala7.vercel.app/api/top-langs/?username=atopala7&theme=tokyonight&layout=donut-vertical&exclude_repo=3311Lab4,3311Project,3311Lab5,3311-Lab3,maze" /></a>
-</td>
-</tr>
-<tr>
-<td align=center>
+<p>
+<span>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height=215 align="center" src="https://github-readme-stats-atopala7.vercel.app/api?username=atopala7&show_icons=true&theme=tokyonight&rank_icon=github&hide_rank=true&custom_title=Andrei's%20GitHub%20Stats" /></a>
+</span>
+<span>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height=215 align="center" src="https://github-readme-stats-atopala7.vercel.app/api/top-langs/?username=atopala7&theme=tokyonight&layout=donut&exclude_repo=3311Lab4,3311Project,3311Lab5,3311-Lab3,maze" /></a>
+</span>
+</p>
+<p>
+<span>
 <a href="https://git.io/streak-stats">
-<img align=center width=500 src="https://streak-stats.demolab.com/?user=atopala7&theme=tokyonight&starting_year=2023" />
+  <img width=690 align="center" src="https://streak-stats.demolab.com/?user=atopala7&theme=tokyonight&starting_year=2023" />
 </a>
-</td>
-</tr>
-</table>
+</span>
+</p>
 
 
 <!--
