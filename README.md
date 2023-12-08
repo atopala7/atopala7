@@ -1,6 +1,6 @@
-# Andrei Topala
+# 💻 Andrei Topala 📝
 
-**`Software Developer 💻 and Writer 📝`**
+**`Software Developer and Writer`**
 
 <!--
 **atopala7/atopala7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
