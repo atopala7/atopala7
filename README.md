@@ -6,6 +6,7 @@
 - 📖 **Portfolio**: [andreitopala.com](https://www.andreitopala.com)
 - 📬 **Email**: [atopala7@gmail.com](mailto:atopala7@gmail.com)
 
+
 ## 🔧 Languages and Tools
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="30px" align="left" />
@@ -41,6 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" width="30px" />
 </a>
 
+<br>
 <br>
 
 ## 📊 Stats
