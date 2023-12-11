@@ -23,8 +23,12 @@
 <a href="https://www.python.org/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30px" align="left" />
 </a>
+
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" alt="C#" width="30px" align="left" />
+</a>
+<a href="https://dotnet.microsoft.com/en-us/download">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="30px" align="left" />
 </a>
 <a href="https://www.cplusplus.com/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" alt="C++" width="30px" align="left" />
@@ -32,14 +36,23 @@
 <a href="https://www.java.com/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30px" align="left" />
 </a>
-<a href="https://www.mysql.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30px" align="left" />
-</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5" width="30px" align="left" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" width="30px" align="left" />
+</a>
+<a href="https://git-scm.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="30px" align="left" />
+</a>
+<a href="https://www.mysql.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30px" align="left" />
+</a>
+<a href="https://spring.io/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Spring" width="30px" align="left" />
+</a>
+<a href="https://flask.palletsprojects.com/en/3.0.x/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="Flask" width="30px" align="left" />
 </a>
 
 <br>
