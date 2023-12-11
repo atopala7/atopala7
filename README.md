@@ -8,6 +8,7 @@
 
 
 ## 🔧 Languages and Tools
+<p>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="30px" align="left" />
 </a>
@@ -23,7 +24,6 @@
 <a href="https://www.python.org/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30px" align="left" />
 </a>
-
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" alt="C#" width="30px" align="left" />
 </a>
@@ -52,8 +52,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Spring" width="30px" align="left" />
 </a>
 <a href="https://flask.palletsprojects.com/en/3.0.x/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="Flask" width="30px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="Flask" width="30px" align="left" />
 </a>
+</p>
 
 <br>
 <br>
