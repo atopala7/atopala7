@@ -72,11 +72,11 @@
 </span>
 </p>
 <p>
-<span>
+<!-- <span>
 <a href="https://git.io/streak-stats">
   <img width=690 align="center" src="https://streak-stats.demolab.com/?user=atopala7&theme=tokyonight&starting_year=2023" />
 </a>
-</span>
+</span> -->
 </p>
 
 
